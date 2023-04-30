@@ -44,7 +44,7 @@
     "selenium-webdriver": "^3.6.0",
     "sinon": "4.0.0",
     "sinon-chrome": "2.2.1",
-    "web-ext": "^3.0.0",
+    "web-ext": "^7.6.2",
     "webext-experiment-utils": "github:mozilla/webext-experiment-utils#develop",
     "yamljs": "^0.3.0"
   },
